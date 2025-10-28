@@ -15,6 +15,9 @@
   При каждом шифровании iv формируется заново, сохраняется в META.json
 3. Метрики (таблицы/графики) и выводы. \
 - **Потоковый метод**\
+![checkerboard.png](imgs%2Fcheckerboard.png)
+![test.png](imgs%2Ftest.png)
+![decrypted_test.png](imgs%2Fdecrypted_test.png) \
 **Гистограмма**
 ![encryption_test_histograms.png](results%2Fencryption_test_histograms.png)
 **Корреляция соседних пикселей**
@@ -27,6 +30,9 @@
 **Чувствительность к ключу (avalanche)** 
 ![encryption_test_avalanche.png](results%2Fencryption_test_avalanche.png)
 - **Перестановочный метод**\
+![gradient.png](imgs%2Fgradient.png)
+![test2.png](imgs%2Ftest2.png)
+![decrypted_test2.png](imgs%2Fdecrypted_test2.png) \
 **Гистограмма**
 ![encryption_test_histograms2.png](results%2Fencryption_test_histograms2.png)
 **Корреляция соседних пикселей**
